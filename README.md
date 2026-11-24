@@ -1,2 +1,2 @@
 # program4
-this is my first git program
+This is my first git program
